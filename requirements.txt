@@ -1,0 +1,9 @@
+pandas
+numpy
+scikit-learn
+streamlit
+joblib
+imbalanced-learn
+# pyngrok is not strictly a *python* dependency for the Streamlit app itself
+# but is often used in Colab for tunnelling, so including it for completeness.
+pyngrok
