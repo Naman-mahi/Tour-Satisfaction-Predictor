@@ -1,0 +1,562 @@
+age_range,gender,destination,transport_mode,main_travel_cost_bdt,stayed_overnight,hotel_cost_per_night_bdt,food_cost_per_day_bdt,local_transport_cost_per_day_bdt,number_of_trip_days,number_of_travellers,travel_season,total_trip_cost_bdt,satisfaction_level
+20-22,Male,Madhabkunda Lake,Bike,200,No,0,300,0,1,2,Winter,500,Neutral
+22-24,Male,Jaflong,Bus,700,No,0,250,0,1,1,Winter,1200,Satisfied
+22-24,Female,Ratargul Swamp Forest,CNG / Auto,2000,No,0,2500,400,1,4,Monsoon,5000,Unsatisfied
+22-24,Male,Utma Chora,CNG / Auto,500,Yes,2000,1000,150,40,3,Summer,20000,Satisfied
+24-26,Female,Ratargul Swamp Forest,Leguna,250,No,0,150,700,1,19,Summer,5000,Satisfied
+22-24,Female,Ratargul Swamp Forest,Bus,400,No,0,100,400,1,3,Winter,800,Neutral
+22-24,Female,Lalakhal,Bus + CNG,100,No,0,180,200,1,16,Winter,500,Neutral
+20-22,Male,Jaflong,CNG / Auto,650,Yes,150,150,500,3,7,Monsoon,5000,Neutral
+20-22,Female,Jaflong,Private Car,550,No,0,300,450,1,4,Winter,450,Neutral
+24-26,Male,Sadha Pathor,Bus,400,No,0,200,50,1,40,Winter,4362,Satisfied
+22-24,Male,Jaflong Ratargul Swamp Forest ,Bus + Boat,400,no,0,325,242,3,18,Summer,40000,Satisfied
+22-24,Male, Bichanakandi ,Bus,500,no,0,225,242,5,15,Summer,30000,Satisfied
+22-24,Male,Lalakhal ,Bus + Boat,400,no,0,275,400,4,16,Winter,4362,Satisfied
+22-24,Male, Madhabkunda Lake ,Bus,600,Yes,2000,250,242,3,17,Summer,3500,Satisfied
+22-24,Male, Lawachara National Park ,Bus,400,Yes,2500,350,242,3,5,Winter,200,Satisfied
+22-24,Male, Hazrat Shah Jalal Mazar ,CNG,200,no,0,225,200,1,15,Summer,3800,Satisfied
+22-24,Male, Hazrat Shah Jalal Mazar ,Train + CNG,1000,Yes,0,225,242,2,10,Summer,30000,Satisfied
+22-24,Male, Tanguar Haor ,Bus + Boat,400,Yes,1500,225,242,3,18,Monsoon,4362,Satisfied
+22-24,Male,Utma Chora ,CNG,400,no,0,225,242,3,15,Winter,800,Satisfied
+22-24,Male, Sadha Pathor,Bus,400,no,0,225,242,3,10,Winter,4362,Satisfied
+22-24,Male,Jaflong,Bus + CNG,350,No,0,150,250,1,5,Winter,700,Neutral
+22-24,Male,Sadha Pathor,Bus,3000,Yes,1200,450,242,2,1,Monsoon,5000,Neutral
+22-24,Male,Tamabil,Private Car,3000,No,0,400,0,1,6,Winter,4500,Satisfied
+22-24,Male,Sreemangal,Train + CNG,600,No,0,300,200,1,2,Winter,900,Satisfied
+22-24,Male,Jaflong,Bus,200,No,0,150,100,1,35,Summer,18000,Satisfied
+22-24,Male,Sadha Pathor,Private Car,4000,No,0,200,200,1,6,Summer,8000,Satisfied
+20-22,Male,Ratargul Swamp Forest,Bike,150,No,0,250,242,2,5,Summer,4362,Neutral
+22-24,Male,Sadha Pathor,Bus,800,No,0,300,242,1,40,Summer,25000,Satisfied
+22-24,Male,Sreemangal,Chander Gari,3000,Yes,2500,3000,455,2,5,Winter,3000,Neutral
+22-24,Male,Sadha Pathor,Bus,600,No,0,200,0,1,15,Monsoon,1000,Neutral
+22-24,Male,Jaflong,Boat + CNG,2000,No,0,399,380,1,8,Summer,2000,Satisfied
+15-20,Female,Jaflong,Bus,1000,No,0,200,150,1,3,Winter,10000,Satisfied
+24-26,Female,Jaflong,Private Car,4000,No,0,200,50,2,6,Summer,7000,Satisfied
+20-22,Male,Sreemangal,Train,200,No,0,200,1000,8,8,Winter,1500,Satisfied
+22-24,Male,Jaflong,Bus,500,No,500,100,250,1,4,Monsoon,2000,Satisfied
+24-26,Male,Sreemangal,Bike,500,Yes,6000,700,120,2,5,Summer,4000,Satisfied
+22-24,Male,Ratargul Swamp Forest,Laguna and boat,400,No,0,75,0,1,11,Summer,4362,Satisfied
+22-24,Male,Sadha Pathor,Private Car,1000,No,0,300,0,1,9,Winter,9000,Neutral
+22-24,Male,Sreemangal,Train + CNG,5500,No,0,5500,5000,1,8,Winter,16000,Satisfied
+22-24,Male,Jaflong,Private Car,300,No,0,200,0,1,12,Winter,6000,Satisfied
+22-24,Male,Sreemangal,CNG,2000,No,2000,200,50,2,7,Monsoon,7000,Satisfied
+22-24,Male,"Shimul Bagan, Sunamganj",Private Car,2000,No,0,1500,700,3,1,Monsoon,5000,Satisfied
+20-22,Male,tanguar haor,Leguna,350,Yes,1000,500,242,1,1,Monsoon,5000,Satisfied
+22-24,Male,Ham Ham Waterfall,Bus,750,Yes,2600,300,250,2,6,Winter,1000,Neutral
+22-24,Male,Utma Chora,Bus + CNG,100,No,0,50,180,1,9,Summer,300,Satisfied
+22-24,Male,Jaflong,Bus,100,No,0,200,100,1,4,Summer,500,Neutral
+22-24,Male,Jaflong,Private Car,1500,No,0,1000,120,1,10,Summer,3000,Neutral
+22-24,Female,Ratargul Swamp Forest,CNG / Auto,400,No,0,100,600,1,3,Winter,800,Neutral
+20-22,Female,Lalakhal,Boat + CNG,270,No,0,350,170,1,8,Winter,1000,Satisfied
+22-24,Male,Sadha Pathor,Bus,100,No,0,200,300,2,9,Winter,800,Satisfied
+20-22,Male,Jaflong,Bike,200,No,0,300,150,1,5,Summer,600,Satisfied
+22-24,Male,Ratargul Swamp Forest,Boat + CNG,500,No,0,300,700,1,5,Winter,800,Neutral
+22-24,Male,Jaflong,Air,200,Yes,2000,300,40,2,3,Winter,1000,Neutral
+22-24,Male,Sreemangal,Bike,2000,No,0,1000,200,1,6,Monsoon,5000,Neutral
+20-22,Female,Sreemangal,Train,807.0864865,Yes,3000,300,200,2,2,Winter,4000,Neutral
+20-22,Male,Ham Ham Waterfall,Bus,200,No,0,100,0,1,5,Monsoon,2500,Satisfied
+24-26,Male,Sreemangal,Bus,600,No,5000,2000,30,2,10,Monsoon,3000,Neutral
+20-22,Female,Shapla Bil,Private Car,1061,Yes,680,400,177,3,15,Winter,4173,Satisfied
+15-20,Male,Madhabkunda Waterfall,Bus + CNG,434,No,0,300,372,1,9,Monsoon,1488,Neutral
+22-24,Female,Tanguar Haor,Boat + CNG,543,Yes,2500,670,50,2,11,Monsoon,12063,Satisfied
+20-22,Female,Tamabil,Leguna,1290,Yes,1840,633,142,2,6,Monsoon,4691,Satisfied
+22-24,Male,Tanguar Haor,Private Car,532,No,0,180,67,1,6,Winter,786,Satisfied
+24-26,Female,Shapla Bil,Boat + CNG,1296,Yes,1371,216,305,4,12,Monsoon,7493,Neutral
+22-24,Male,Madhabkunda Waterfall,Bus,320,Yes,805,537,231,2,4,Winter,2651,Satisfied
+15-20,Male,Sadha Pathor,Bike,1264,Yes,2843,183,204,3,4,Monsoon,8111,Satisfied
+28-30,Male,Madhabkunda Lake,Private Car,689,No,0,370,166,1,12,Winter,1225,Satisfied
+20-22,Female,Sadha Pathor,Leguna,1237,Yes,2957,454,213,4,14,Winter,12776,Unsatisfied
+20-22,Male,Sreemangal,Chander Gari,1496,No,0,782,214,1,2,Winter,2492,Neutral
+26-28,Female,Lalakhal,Boat + CNG,954,No,0,449,274,1,14,Summer,1677,Satisfied
+22-24,Male,Lalakhal,Private Car,1101,No,0,403,191,1,6,Monsoon,1695,Satisfied
+22-24,Male,Tamabil, CNG,643,No,0,185,70,1,13,Summer,898,Neutral
+22-24,Female,Bichanakandi,Leguna,979,No,0,334,385,1,1,Summer,1675,Satisfied
+28-30+,Female,Madhabkunda Waterfall,Train + CNG,334,No,0,589,176,1,14,Monsoon,1099,Neutral
+24-26,Male,Madhabkunda Waterfall,Chander Gari,648,Yes,621,332,148,4,6,Monsoon,4431,Neutral
+22-24,Male,Sreemangal Tea Garden Area,Train + CNG,1290,Yes,2217,153,173,2,10,Winter,4159,Satisfied
+22-24,Male,Lawachara National Park,Chander Gari,390,Yes,1487,510,260,3,9,Winter,5000,Unsatisfied
+20-22,Female,Lawachara National Park,Boat + CNG,750,Yes,2664,383,318,2,15,Monsoon,4816,Neutral
+22-24,Male,Sadha Pathor,Bus,738,No,0,594,385,1,12,Summer,1724,Neutral
+20-22,Male,Madhabkunda Waterfall,Bike,1449,No,0,450,186,1,9,Winter,2085,Satisfied
+20-22,Female,HakaLuki Haor,bus boat,1112,No,0,438,287,1,10,Summer,1834,Neutral
+22-24,Male,Sreemangal,Chander Gari,1091,No,0,375,115,1,13,Monsoon,1581,Neutral
+22-24,Female,Shapla Bil,Private Car,223,Yes,1236,717,300,3,12,Summer,5746,Satisfied
+20-22,Female,Tanguar Haor,Bike,757,No,0,528,383,1,14,Summer,1668,Satisfied
+22-24,Female,Utma Chora,Bike,730,Yes,2531,578,169,4,8,Winter,11311,Neutral
+24-26,Male,Lalakhal,CNG / Auto,370,Yes,2464,257,53,2,10,Summer,3454,Satisfied
+24-26,Female,Sreemangal,Train + CNG,260,No,0,448,382,1,14,Monsoon,1090,Satisfied
+22-24,Male,Ham Ham Waterfall,Private Car,809,Yes,1089,567,287,2,7,Monsoon,3648,Satisfied
+24-26,Male,Lalakhal,Train + CNG,1166,No,0,282,259,1,12,Summer,1707,Unsatisfied
+24-26,Female,Hazrat Shah Paran Mazar,Bus,375,No,0,606,351,1,3,Summer,1329,Neutral
+22-24,Female,"Shimul Bagan, Sunamganj",Train + CNG,170,No,0,234,393,1,2,Monsoon,780,Neutral
+20-22,Female,Sadha Pathor,Chander Gari,1077,No,0,250,200,1,7,Summer,1542,Satisfied
+24-26,Female,Ratargul Swamp Forest,Train + CNG,1212,Yes,706,299,164,4,8,Monsoon,5182,Satisfied
+22-24,Male,Tamabil,CNG / Auto,235,Yes,2690,470,371,2,1,Winter,4600,Unsatisfied
+22-24,Male,Hazrat Shah Jalal Mazar,Train + CNG,1421,No,0,283,86,1,2,Summer,1805,Satisfied
+22-24,Male,Hazrat Shah Paran Mazar,Bus,1255,No,0,325,387,1,13,Monsoon,1967,Neutral
+24-26,Female,Hazrat Shah Jalal Mazar,CNG ,605,No,0,439,354,1,15,Summer,1398,Satisfied
+22-24,Male,Hazrat Shah Jalal Mazar,Train + CNG,1384,No,0,426,110,1,3,Winter,1920,Satisfied
+22-24,Female,Sreemangal Tea Garden Area,Bus + CNG,1230,No,0,686,289,1,15,Winter,2201,Neutral
+20-22,Female,Lalakhal,Bus + CNG,1124,No,0,795,149,1,10,Winter,2068,Satisfied
+28-30+,Female,HakaLuki Haor,Leguna,1047,No,0,211,149,1,4,Monsoon,1407,Neutral
+22-24,Male,Madhabkunda Waterfall,Chander Gari,1327,No,0,220,190,1,15,Winter,1738,Unsatisfied
+22-24,Male,Tamabil,Train + CNG,387,Yes,1647,770,226,2,13,Monsoon,4018,Satisfied
+20-22,Female,Hazrat Shah Paran Mazar,CNG / Auto,1109,Yes,1206,556,121,2,10,Monsoon,3669,Satisfied
+22-24,Male,Jaflong,Leguna,554,Yes,1790,545,270,3,4,Summer,6563,Unsatisfied
+22-24,Male,Sreemangal,Train,1346,No,0,407,128,1,9,Monsoon,1881,Satisfied
+22-24,Female,Sreemangal Tea Garden Area,Private Car,570,No,0,491,240,1,12,Summer,1301,Unsatisfied
+26-28,Male,Lalakhal,Leguna,597,Yes,1216,360,265,3,10,Summer,4904,Satisfied
+24-26,Male,Lawachara National Park,Chander Gari,461,No,0,618,328,1,14,Winter,1407,Satisfied
+28-30+,Female,Lalakhal,CNG / Auto,1000,Yes,1351,793,358,4,7,Winter,9657,Satisfied
+22-24,Male,Tamabil,Bus,1158,Yes,2659,700,319,4,9,Monsoon,13243,Satisfied
+20-22,Male,Sreemangal Tea Garden Area,Bus,709,Yes,2000,713,362,3,10,Monsoon,7962,Neutral
+22-24,Male,Lawachara National Park,Chander Gari,936,No,0,543,399,1,13,Winter,1878,Neutral
+22-24,Female,Sadha Pathor,Train,1376,Yes,2354,777,299,3,11,Winter,9312,Satisfied
+20-22,Male,Ham Ham Waterfall,Bus + CNG,1238,Yes,2203,248,350,2,13,Winter,4637,Neutral
+28-30+,Female,HakaLuki Haor,Train + CNG,897,No,0,590,220,1,14,Summer,1707,Satisfied
+26-28,Female,Sreemangal Tea Garden Area,Bus,1197,No,0,226,316,1,7,Monsoon,1739,Satisfied
+26-28,Female,Tamabil,Boat + CNG,632,Yes,2457,303,223,2,6,Summer,4141,Satisfied
+20-22,Female,Lawachara National Park,Bus + CNG,375,No,0,792,90,1,11,Monsoon,1257,Unsatisfied
+20-22,Male,Tamabil,Boat + CNG,757,No,0,757,278,1,8,Monsoon,1792,Unsatisfied
+22-24,Female,Madhabkunda Waterfall,Chander Gari,211,Yes,2225,413,206,4,5,Summer,9362,Satisfied
+22-24,Male,Utma Chora,CNG / Auto,393,No,0,758,204,1,1,Winter,1355,Satisfied
+22-24,Female,Bichanakandi,Leguna,748,No,0,526,152,1,5,Summer,1426,Satisfied
+22-24,Male,Hazrat Shah Paran Mazar,CNG / Auto,639,Yes,1818,525,224,2,6,Summer,3955,Satisfied
+22-24,Male,Lalakhal,Bus,703,No,0,781,181,1,14,Monsoon,1000,Satisfied
+22-24,Male,Sreemangal Tea Garden Area,Private Car,1201,Yes,1907,380,197,3,6,Monsoon,6761,Satisfied
+22-24,Female,Jaflong,CNG / Auto,1343,Yes,2946,443,327,4,12,Winter,13261,Satisfied
+22-24,Male,Shapla Bil,Private Car,654,Yes,2356,210,212,4,5,Monsoon,9410,Satisfied
+26-28,Male,Bichanakandi,Leguna,1031,Yes,2584,626,236,2,5,Summer,5339,Satisfied
+28-30+,Female,Ratargul Swamp Forest,Train + CNG,1242,No,0,308,68,1,14,Monsoon,1618,Satisfied
+26-28,Male,Hazrat Shah Jalal Mazar,Air + CNG,624,No,0,471,295,1,9,Summer,1390,Neutral
+22-24,Female,Hazrat Shah Jalal Mazar,Private Car,209,No,0,169,342,1,13,Summer,720,Satisfied
+22-24,Male,"Shimul Bagan, Sunamganj",Bus,1011,Yes,1242,688,311,3,12,Winter,6492,Satisfied
+20-22,Female,Madhabkunda Lake,Chander Gari,548,No,0,755,234,1,11,Winter,1537,Satisfied
+20-22,Female,Madhabkunda Lake,Bike,1207,No,0,398,209,1,1,Summer,1814,Neutral
+24-26,Male,"Shimul Bagan, Sunamganj",Train + CNG,408,Yes,1242,747,229,3,15,Monsoon,5820,Satisfied
+22-24,Male,Tanguar Haor,Chander Gari,316,No,0,780,195,1,12,Monsoon,1291,Satisfied
+20-22,Female,Lawachara National Park,Chander Gari,521,Yes,601,161,220,4,10,Monsoon,3850,Satisfied
+22-24,Male,Hazrat Shah Jalal Mazar,CNG / Auto,1294,No,0,780,395,1,13,Summer,2469,Satisfied
+22-24,Male,Hazrat Shah Paran Mazar,Train + CNG,572,No,0,419,229,1,13,Winter,1220,Neutral
+22-24,Female,Lawachara National Park,Bike,965,Yes,1605,455,67,4,3,Winter,7886,Satisfied
+20-22,Male,Lalakhal,Bus + CNG,737,Yes,1796,741,92,2,7,Summer,4199,Satisfied
+24-26,Female,Shapla Bil,Leguna,511,Yes,1424,369,365,2,2,Summer,3403,Satisfied
+20-22,Male,Madhabkunda Waterfall,Train + CNG,1500,No,0,625,160,1,10,Monsoon,2285,Satisfied
+20-22,Female,Lawachara National Park,Bus + CNG,673,No,0,710,323,1,10,Monsoon,1682,Satisfied
+22-24,Female,Tanguar Haor,Bike,1065,Yes,2007,541,168,3,2,Monsoon,7206,Neutral
+22-24,Male,Ham Ham Waterfall,Bike,1016,No,0,277,128,1,3,Monsoon,1421,Satisfied
+22-24,Male,Bichanakandi,Bus + CNG,446,No,0,311,224,1,2,Winter,975,Satisfied
+15-20,Male,Sreemangal Tea Garden Area,Chander Gari,619,Yes,2015,584,384,4,11,Summer,10536,Neutral
+22-24,Male,Tanguar Haor,Bus + CNG,136,Yes,731,568,182,2,9,Summer,2367,Satisfied
+20-22,Female,Sadha Pathor,Bus + CNG,627,Yes,601,229,308,3,13,Summer,3440,Satisfied
+15-20,Male,Sreemangal,Private Car,219,No,0,588,215,1,4,Summer,1000,Unsatisfied
+22-24,Male,Sreemangal Tea Garden Area,Train,1000,Yes,2964,570,225,4,1,Summer,13382,Satisfied
+22-24,Female,Lawachara National Park, CNG,1062,No,0,616,359,1,9,Summer,2037,Satisfied
+15-20,Female,Jaflong,Boat + CNG,266,No,0,266,282,1,12,Summer,814,Satisfied
+22-24,Female,Tanguar Haor,Bus + CNG,1376,No,0,353,59,1,5,Summer,1788,Neutral
+28-30+,Female,Ham Ham Waterfall,Bike,491,No,0,204,71,1,4,Monsoon,766,Satisfied
+24-26,Female,Ratargul Swamp Forest,Leguna,877,Yes,1086,155,162,2,9,Summer,2597,Satisfied
+22-24,Female,Madhabkunda Waterfall,Bike,1032,No,0,498,314,1,14,Winter,1000,Satisfied
+22-24,Female,Jaflong,Bus + CNG,389,Yes,1390,475,92,3,10,Winter,4876,Satisfied
+22-24,Female,Madhabkunda Lake,Bus,552,No,0,606,216,1,9,Monsoon,1374,Neutral
+20-22,Male,Sadha Pathor,Bike,576,Yes,1547,790,298,2,2,Winter,4307,Satisfied
+24-26,Female,Hazrat Shah Jalal Mazar,Boat + CNG,1065,No,0,360,349,1,12,Summer,1774,Satisfied
+15-20,Female,HakaLuki Haor,Bus + CNG,1207,Yes,749,770,105,3,6,Winter,5330,Satisfied
+22-24,Female,Lawachara National Park,Chander Gari,538,Yes,2555,490,127,4,8,Summer,10759,Satisfied
+22-24,Female,Ratargul Swamp Forest,Train,1344,Yes,2755,678,363,2,10,Monsoon,6179,Satisfied
+22-24,Male,Shapla Bil,Bus,1285,No,0,434,199,1,15,Winter,1918,Neutral
+22-24,Male,Tamabil,Train + CNG,232,No,0,625,203,1,2,Summer,1060,Satisfied
+24-26,Female,"Shimul Bagan, Sunamganj",Boat + CNG,154,Yes,2807,271,275,4,4,Monsoon,10775,Neutral
+24-26,Female,Sreemangal Tea Garden Area,Leguna,776,Yes,655,426,187,2,15,Summer,2660,Satisfied
+22-24,Female,Bichanakandi,Bus,211,No,0,539,220,1,12,Monsoon,979,Satisfied
+24-26,Male,Bichanakandi,Train + CNG,916,Yes,1648,254,124,2,14,Monsoon,3320,Satisfied
+22-24,Female,HakaLuki Haor,Bus,1165,Yes,606,170,95,3,1,Winter,3172,Unsatisfied
+22-24,Male,HakaLuki Haor,Private Car,956,Yes,1855,683,133,3,1,Monsoon,7114,Satisfied
+22-24,Female,Ratargul Swamp Forest,Leguna,840,Yes,1318,528,57,4,9,Winter,7134,Satisfied
+15-20,Male,Madhabkunda Lake,Chander Gari,1347,Yes,582,545,132,2,4,Summer,3237,Neutral
+22-24,Female,Tanguar Haor,Bus,596,Yes,2020,213,241,4,13,Monsoon,8472,Unsatisfied
+22-24,Male,Sadha Pathor,Bus,141,No,0,241,318,1,5,Summer,700,Satisfied
+22-24,Male,Sreemangal Tea Garden Area,Chander Gari,1000,Yes,2934,448,173,4,4,Summer,12429,Unsatisfied
+22-24,Female,Tanguar Haor,Boat + CNG,1363,No,0,230,235,1,6,Monsoon,1815,Neutral
+22-24,Female,Sreemangal,Bus + CNG,321,Yes,2927,311,252,4,6,Monsoon,11354,Satisfied
+22-24,Male,Lalakhal,Leguna,410,No,0,645,156,1,3,Winter,1211,Neutral
+24-26,Male,Jaflong,bus ,247,Yes,2500,612,375,2,4,Winter,4723,Satisfied
+22-24,Female,Madhabkunda Waterfall,Chander Gari,1286,Yes,2575,702,320,4,2,Summer,13083,Satisfied
+22-24,Male,Ratargul Swamp Forest,Train + CNG,1154,No,0,220,319,1,5,Winter,1693,Satisfied
+24-26,Female,Tanguar Haor,CNG / Auto,585,Yes,1563,320,221,2,10,Summer,3230,Satisfied
+22-24,Female,Bichanakandi,Leguna,349,No,0,209,350,1,3,Monsoon,908,Satisfied
+24-26,Female,Bichanakandi,CNG / Auto,598,Yes,1604,164,323,4,12,Summer,7362,Satisfied
+22-24,Male,"Shimul Bagan, Sunamganj",Boat + CNG,547,No,0,530,508,1,10,Monsoon,1000,Satisfied
+22-24,Male,Ham Ham Waterfall,Train + CNG,940,Yes,1543,774,70,4,4,Summer,8945,Satisfied
+22-24,Male,Jaflong,Private Car,769,Yes,1362,289,71,2,11,Winter,2851,Satisfied
+22-24,Female,HakaLuki Haor,Chander Gari,641,Yes,2794,764,359,4,4,Winter,13515,Unsatisfied
+20-22,Male,"Shimul Bagan, Sunamganj",Bike,1193,Yes,2933,371,62,3,3,Winter,8358,Satisfied
+20-22,Male,Ham Ham Waterfall,CNG / Auto,1096,No,0,745,186,1,8,Winter,2024,Satisfied
+22-24,Female,"Shimul Bagan, Sunamganj",Bike,1306,No,0,172,169,1,7,Summer,1647,Satisfied
+20-22,Male,Sreemangal,CNG / Auto,1449,No,0,218,296,1,9,Winter,1963,Satisfied
+22-24,Male,Lalakhal,Leguna,576,No,0,469,389,1,1,Summer,1434,Satisfied
+20-22,Female,Tamabil,Bus + CNG,922,No,0,438,221,1,8,Winter,1581,Satisfied
+22-24,Male,Lalakhal,Train + CNG,146,Yes,2648,764,201,4,11,Monsoon,11950,Satisfied
+22-24,Female,Shapla Bil,Bike,1274,No,0,300,223,1,10,Monsoon,1794,Neutral
+20-22,Male,Shapla Bil,Private Car,479,No,0,482,54,1,11,Winter,1015,Satisfied
+22-24,Male,Shapla Bil,Boat + CNG,117,Yes,1270,583,140,4,6,Summer,6000,Satisfied
+24-26,Male,Jaflong,Bus + CNG,1024,Yes,2670,183,80,4,5,Monsoon,10150,Neutral
+26-28,Female,Sreemangal,Chander Gari,614,Yes,2475,778,323,4,10,Monsoon,12434,Satisfied
+20-22,Male,Madhabkunda Waterfall,Chander Gari,289,No,0,422,79,1,11,Winter,790,Satisfied
+22-24,Female,Utma Chora,Bus,770,No,0,743,173,1,10,Summer,1686,Satisfied
+24-26,Male,Lalakhal,cng + boat ,773,No,0,519,53,1,14,Winter,1000,Neutral
+22-24,Female,Madhabkunda Lake,Bike,1107,Yes,706,458,94,4,2,Monsoon,5433,Unsatisfied
+22-24,Male,Hazrat Shah Paran Mazar,Private Car,619,No,0,375,340,1,10,Summer,1334,Satisfied
+20-22,Male,Sreemangal Tea Garden Area,Train + CNG,138,No,0,747,267,1,3,Summer,1152,Satisfied
+26-28,Female,Hazrat Shah Jalal Mazar,Bus,1220,No,0,703,368,1,9,Winter,2291,Satisfied
+15-20,Female,Shapla Bil,Leguna,514,Yes,1748,606,77,4,14,Winter,8490,Neutral
+15-20,Male,Sadha Pathor,Bike,544,No,0,202,263,1,5,Winter,1009,Satisfied
+20-22,Female,Ratargul Swamp Forest,Leguna,1092,Yes,1822,218,242,2,9,Winter,3834,Satisfied
+22-24,Male,Lawachara National Park,Chander Gari,897,No,0,493,318,1,12,Monsoon,1708,Satisfied
+24-26,Female,HakaLuki Haor,Bus + CNG,1003,No,0,718,80,1,2,Monsoon,1801,Neutral
+20-22,Female,Madhabkunda Lake,Boat + CNG,685,No,0,666,256,1,13,Winter,1607,Satisfied
+26-28,Female,Sreemangal Tea Garden Area,CNG / Auto,780,Yes,1005,284.5,67,4,3,Monsoon,5183,Satisfied
+20-22,Male,Ratargul Swamp Forest,CNG / Auto,962,Yes,2036,744,161,3,13,Summer,7749,Unsatisfied
+15-20,Male,Bichanakandi,Leguna,1348,Yes,1100,164,345,2,14,Summer,3428,Satisfied
+22-24,Female,Sreemangal,Leguna,239,Yes,778,675,209,3,8,Monsoon,400,Satisfied
+22-24,Female,Madhabkunda Waterfall,Train + Chander Gari,551,No,0,234,372,1,15,Summer,1157,Satisfied
+20-22,Male,Utma Chora, CNG,344,Yes,1024,611,109,4,14,Winter,6296,Satisfied
+22-24,Male,Hazrat Shah Paran Mazar,leguna,697,No,0,426,114,1,5,Winter,1237,Satisfied
+20-22,Female,Lawachara National Park,Chander Gari,346,Yes,1248,630,105,4,10,Monsoon,7030,Neutral
+28-30+,Male,Sreemangal Tea Garden Area,Train + CNG,775,No,0,594,122,1,2,Winter,1491,Neutral
+22-24,Female,Tamabil,Bike,459,Yes,1047,365,179,4,6,Monsoon,5736,Neutral
+22-24,Female,Tanguar Haor,Train + CNG,1352,Yes,2192,684,205,3,8,Summer,8403,Satisfied
+15-20,Female,Sreemangal,Boat + CNG,300,Yes,978,486,217,3,5,Monsoon,4359,Unsatisfied
+22-24,Male,Bichanakandi,Bike,982,No,0,314,230,1,6,Winter,1526,Satisfied
+20-22,Female,"Shimul Bagan, Sunamganj",Bus + CNG,410,Yes,1278,345,75,2,7,Summer,2520,Satisfied
+24-26,Male,Tanguar Haor,CNG / Auto,312,No,0,260,215,1,9,Summer,787,Neutral
+20-22,Male,Hazrat Shah Paran Mazar,Boat + CNG,489,Yes,1314,404,284,4,15,Summer,7000,Satisfied
+24-26,Male,Lawachara National Park,Private Car,471,No,0,625,75,1,6,Summer,1171,Unsatisfied
+22-24,Female,Lawachara National Park,Bus,498,No,0,657,343,1,12,Winter,1498,Satisfied
+26-28,Female,Tanguar Haor,bus boat,378,Yes,846,530,365,2,11,Summer,3014,Satisfied
+20-22,Female,"Shimul Bagan, Sunamganj",Bus,962,No,0,705,128,1,7,Winter,1795,Satisfied
+22-24,Male,"Shimul Bagan, Sunamganj",Train + Bus,1320,Yes,2958,231,62,3,6,Winter,8116,Neutral
+22-24,Female,Utma Chora,Bike,985,Yes,2542,392,214,2,13,Winter,4739,Satisfied
+22-24,Female,HakaLuki Haor,Train + CNG,986,Yes,665,433,306,3,6,Summer,4543,Satisfied
+22-24,Male,Sreemangal Tea Garden Area,Bus + CNG,820,No,0,702,334,1,4,Winter,1861,Unsatisfied
+22-24,Female,Bichanakandi,Leguna,436,Yes,1442,173,369,2,9,Winter,2962,Satisfied
+20-22,Male,Hazrat Shah Paran Mazar,Bus + CNG,563,No,0,336,286,1,9,Summer,1185,Satisfied
+24-26,Male,Lalakhal,Bike,412,Yes,1089,160,199,4,15,Winter,5115,Satisfied
+22-24,Male,Madhabkunda Lake,Bus + CNG,852,No,0,647,243,1,12,Summer,1742,Unsatisfied
+22-24,Male,Sadha Pathor,Boat + CNG,322,No,0,564,134,1,13,Summer,1020,Neutral
+22-24,Female,Ham Ham Waterfall,Train,1435,Yes,2122,761,138,3,9,Winter,8376,Satisfied
+20-22,Female,Ham Ham Waterfall,Chander Gari,435,Yes,2296,796,147,4,8,Winter,11095,Satisfied
+20-22,Male,Tamabil,CNG,115,Yes,1342,725,337,2,15,Monsoon,3581,Neutral
+20-22,Male,Shapla Bil,Private Car,624,No,0,363,374,1,14,Summer,1361,Satisfied
+24-26,Male,Sreemangal,Private Car,486,Yes,2327,348,101,2,13,Summer,3711,Neutral
+22-24,Male,Ratargul Swamp Forest,Leguna,1407,Yes,2013,323,392,4,2,Summer,10126,Satisfied
+22-24,Male,Lawachara National Park,Leguna,749,No,0,600,67,1,4,Winter,1432,Unsatisfied
+22-24,Male,Sreemangal,Private Car,718,No,0,570,338,1,12,Monsoon,1617,Satisfied
+15-20,Male,HakaLuki Haor,Boat + CNG,1348,Yes,771,201,278,2,14,Winter,3000,Satisfied
+22-24,Female,"Shimul Bagan, Sunamganj",Bus,799,No,0,510,395,1,2,Winter,1704,Unsatisfied
+26-28,Male,Hazrat Shah Paran Mazar,Bus,558,No,0,678,291,1,4,Winter,1534,Satisfied
+22-24,Female,Utma Chora,Train + CNG,828,No,0,737,356,1,12,Summer,1913,Neutral
+22-24,Male,Ham Ham Waterfall,Train + CNG,1162,No,0,707,272,1,6,Monsoon,2133,Satisfied
+24-26,Male,Ratargul Swamp Forest,Train,314,Yes,1678,534,315,4,10,Winter,8800,Neutral
+28-30+,Male,"Shimul Bagan, Sunamganj",bus,159,No,0,610,361,1,13,Winter,1130,Unsatisfied
+15-20,Male,Lawachara National Park,train CNG,809,No,0,559,364,1,10,Winter,1732,Satisfied
+26-28,Female,Lawachara National Park,Bike,1387,No,0,686,215,1,10,Summer,2287,Satisfied
+24-26,Female,Ham Ham Waterfall,Train + CNC,853,Yes,584,319,389,4,10,Winter,5437,Satisfied
+20-22,Male,Sreemangal, CNG,1402,Yes,998,620,225,4,13,Monsoon,7808,Satisfied
+22-24,Male,Shapla Bil,Bike,934,No,0,239,68,1,9,Summer,1233,Satisfied
+22-24,Female,Tanguar Haor,Bus + CNG,1445,No,0,648,136,1,7,Monsoon,2229,Satisfied
+28-30+,Male,Lalakhal,Bus + CNG,384,Yes,1195,657,284,2,10,Monsoon,3461,Unsatisfied
+22-24,Female,Madhabkunda Lake,Leguna,1215,No,0,761,292,1,10,Summer,2268,Satisfied
+28-30+,Male,Hazrat Shah Jalal Mazar,Bike,181,Yes,1683,336,131,3,13,Summer,4948,Satisfied
+22-24,Female,Lalakhal,Bus + CNG,346,No,0,318,127,1,2,Monsoon,791,Neutral
+22-24,Female,Sadha Pathor,Bike,221,No,0,321,130,1,6,Monsoon,676,Satisfied
+24-26,Female,Sreemangal,CNG / Auto,315,Yes,1749,174,131,3,13,Summer,4728,Neutral
+22-24,Male,Lalakhal,CNG / Auto,829,No,0,433,352,1,10,Summer,1614,Neutral
+15-20,Male,HakaLuki Haor,Bus + boat,1374,Yes,707,425,253,4,6,Monsoon,6207,Satisfied
+22-24,Male,HakaLuki Haor,Bus,255,No,0,250,94,1,1,Monsoon,607,Neutral
+24-26,Female,Lawachara National Park,CNG / Auto,1122,No,0,476,216,1,5,Winter,1814,Neutral
+22-24,Female,Ratargul Swamp Forest,leguna,728,No,0,405,66,1,8,Monsoon,1199,Satisfied
+22-24,Female,Jaflong,Bike,812,Yes,634,706,276,2,13,Monsoon,3402,Satisfied
+24-26,Female,Shapla Bil,Leguna,914,No,0,759,348,1,12,Monsoon,1999,Unsatisfied
+22-24,Male,Ratargul Swamp Forest,CNG / Auto,193,Yes,1706,199,179,2,4,Summer,2659,Neutral
+22-24,Male,Bichanakandi,Private Car,1356,No,0,573,385,1,14,Summer,2323,Satisfied
+28-30+,Male,Ham Ham Waterfall,Chander Gari,551,Yes,2000,648,152,2,14,Monsoon,4904,Satisfied
+22-24,Female,HakaLuki Haor,Train,111,Yes,1462,567,307,3,4,Winter,5654,Neutral
+15-20,Female,Tamabil + Jaflong ,Private Car,1493,Yes,901,685,304,3,13,Winter,6262,Satisfied
+28-30+,Female,Lawachara National Park,Leguna,648,No,0,757,113,1,7,Summer,1511,Satisfied
+22-24,Male,Lalakhal,Leguna,131,No,0,370,126,1,11,Monsoon,640,Satisfied
+22-24,Male,HakaLuki Haor,Bus + CNG,864,No,0,438,382,1,9,Monsoon,1684,Satisfied
+20-22,Female,Lalakhal,Bus + CNG,1207,No,0,216,103,1,11,Winter,1526,Satisfied
+22-24,Female,Tamabil,Bus ,1000,No,0,645,60,1,7,Summer,1930,Satisfied
+24-26,Male,Sreemangal,Bus + CNG,1331,No,0,527,189,1,1,Summer,2047,Neutral
+20-22,Female,Sreemangal,CNG / Auto,534,Yes,1325,278,315,3,2,Monsoon,4000,Satisfied
+15-20,Male,Jaflong,Bike,493,Yes,1947,713,291,2,12,Summer,4448,Neutral
+22-24,Male,Hazrat Shah Jalal Mazar,CNG,744,Yes,2799,189,136,4,2,Monsoon,10000,Satisfied
+15-20,Male,Lawachara National Park,Train + CNG,321,Yes,2234,176,265,3,6,Summer,6112,Satisfied
+22-24,Female,Sreemangal,Train + CNG,1283,No,0,203,365,1,10,Monsoon,1839,Satisfied
+26-28,Male,HakaLuki Haor,Boat + CNG,992,Yes,1755,589,401,3,2,Monsoon,7469,Neutral
+22-24,Male,Tanguar Haor,Bus,573,Yes,1000,683,358,2,9,Winter,3655,Satisfied
+26-28,Female,"Shimul Bagan, Sunamganj",Bus + CNG,1014,Yes,2370,374,186,3,9,Winter,7434,Satisfied
+22-24,Male,Utma Chora,leguna,222,No,0,686,326,1,9,Winter,1234,Neutral
+24-26,Female,Hazrat Shah Jalal Mazar,CNG / Auto,112,No,0,611,300,1,12,Monsoon,1023,Satisfied
+15-20,Female,Lawachara National Park,Bike,545,No,0,173,99,1,11,Summer,632,Satisfied
+22-24,Male,Hazrat Shah Paran Mazar,Bike,400,No,0,197,180,2,15,Winter,2931,Satisfied
+28-30+,Male,Tanguar Haor,Private Car,1145,Yes,2225,384,166,3,12,Monsoon,7245,Neutral
+22-24,Female,Shapla Bil,Chander Gari,400,Yes,1784,496,398,3,5,Summer,6650,Unsatisfied
+20-22,Female,Jaflong,bus,667,Yes,2885,534,153,2,3,Winter,4916,Satisfied
+22-24,Male,Madhabkunda Waterfall,Train + CNG,588,No,0,421,378,1,3,Monsoon,1387,Neutral
+20-22,Female,Lawachara National Park,Boat + CNG,1212,Yes,2821,243,99,4,7,Summer,11079,Satisfied
+22-24,Female,Sreemangal Tea Garden Area,Bike,1476,Yes,1895,227,88,4,10,Winter,8421,Satisfied
+28-30+,Female,Utma Chora,leguna,1486,No,0,359,150,1,7,Monsoon,1995,Satisfied
+20-22,Female,Shapla Bil,cng,1151,Yes,1574,460,303,4,11,Winter,8925,Neutral
+22-24,Male,"Shimul Bagan, Sunamganj",CNG / Auto,1315,No,0,390,283,1,6,Summer,1000,Satisfied
+22-24,Male,HakaLuki Haor,bus,959,Yes,2518,170,170,2,2,Summer,4000,Satisfied
+15-20,Male,Lalakhal,Bike,865,No,0,684,185,1,15,Summer,1735,Satisfied
+28-30+,Male,Sadha Pathor,Leguna,1132,Yes,2110,401,381,4,4,Summer,10590,Satisfied
+28-30+,Male,Hazrat Shah Jalal Mazar,Bus + CNG,1335,No,0,343,226,1,13,Monsoon,1904,Neutral
+22-24,Female,Ratargul Swamp Forest,Boat + CNG,1132,Yes,2100,258,326,4,3,Winter,9756,Satisfied
+26-28,Male,Hazrat Shah Jalal Mazar,Chander Gari,823,Yes,2846,566,57,2,13,Winter,4927,Satisfied
+28-30+,Male,Hazrat Shah Paran Mazar,Bus + CNG,115,Yes,1385,634,106,2,6,Summer,2984,Satisfied
+26-28,Female,Sreemangal,CNG / Auto,667,No,0,662,84,1,8,Summer,1413,Unsatisfied
+20-22,Female,Lawachara National Park,chander Gari,556,No,0,469,304,1,9,Summer,1322,Satisfied
+22-24,Female,Sreemangal Tea Garden Area,Bus + CNG,350,No,0,644,216,1,4,Winter,1217,Unsatisfied
+22-24,Female,Jaflong,Train + CNG,122,No,0,667,236,1,5,Summer,1034,Neutral
+24-26,Male,Bichanakandi,Bus + CNG,1276,Yes,2045,264,237,4,2,Summer,9415,Neutral
+22-24,Female,HakaLuki Haor,CNG / Auto,374,No,0,179,181,1,12,Monsoon,731,Neutral
+15-20,Female,Sreemangal Tea Garden Area,CNG / Auto,1389,Yes,2333,214,98,4,5,Winter,9636,Neutral
+22-24,Male,Ham Ham Waterfall,Chander Gari,1270,No,0,162,169,1,11,Summer,1601,Satisfied
+22-24,Male,Utma Chora,leguna,523,Yes,2867,258,311,2,4,Summer,4526,Satisfied
+22-24,Male,Lalakhal,Bus + CNG,788,Yes,2190,782,107,2,15,Summer,4756,Unsatisfied
+20-22,Female,Shapla Bil,Bus,949,Yes,1605,560,76,4,1,Summer,8287,Neutral
+15-20,Male,Hazrat Shah Paran Mazar,Air + CNG,1010,Yes,1883,779,258,2,10,Monsoon,4967,Satisfied
+24-26,Male,Shapla Bil,CNG / Auto,356,Yes,2880,676,337,4,2,Monsoon,13048,Satisfied
+22-24,Male,Ham Ham Waterfall,Private Car,1469,No,0,630,315,1,5,Winter,2414,Satisfied
+20-22,Male,Tamabil,Bus + CNG,1077,Yes,2350,300,133,4,2,Winter,9000,Satisfied
+26-28,Female,Sreemangal,Boat + CNG,904,Yes,1695,411,389,3,5,Monsoon,7609,Satisfied
+22-24,Female,Tamabil,Train + CNG,970,Yes,2757,258,315,4,1,Winter,11533,Satisfied
+15-20,Female,Shapla Bil,Train + CNG,1000,No,0,440,143,1,7,Winter,1630,Satisfied
+22-24,Male,Sadha Pathor,Leguna,267,No,0,536,235,1,14,Monsoon,1041,Satisfied
+20-22,Male,Hazrat Shah Paran Mazar,Train + CNG,1332,No,0,317,81,1,5,Winter,1724,Satisfied
+20-22,Male,Lalakhal,leguna,952,No,0,467,188,1,1,Summer,1607,Satisfied
+20-22,Male,Lawachara National Park,Chander Gari,945,Yes,2459,692,383,2,13,Winter,5554,Neutral
+24-26,Female,Utma Chora,Bike,197,Yes,1266,319,272,3,14,Summer,5438,Satisfied
+22-24,Female,HakaLuki Haor,Bus,1420,Yes,1791,781,267,3,3,Winter,8146,Satisfied
+26-28,Female,Sadha Pathor,leguna,703,No,0,231,201,1,9,Monsoon,1135,Satisfied
+22-24,Female,Hazrat Shah Paran Mazar,Train + CNG,651,Yes,1113,273,288,3,3,Monsoon,4560,Neutral
+20-22,Female,Sreemangal,Train + CNG,288,Yes,981,354,376,4,14,Winter,6150,Unsatisfied
+22-24,Female,Hazrat Shah Jalal Mazar,CNG / Auto,1054,Yes,2434,242,125,4,1,Winter,9824,Satisfied
+24-26,Female,Madhabkunda Lake,Bus + CNG,1365,No,0,418,68,1,15,Monsoon,1851,Satisfied
+22-24,Female,Jaflong,Bike,633,No,0,794,389,1,8,Monsoon,1816,Neutral
+22-24,Male,Sreemangal Tea Garden Area,Bus + CNG,1468,Yes,1553,167,282,4,5,Summer,7902,Unsatisfied
+20-22,Male,Madhabkunda Waterfall,Train + CNG,776,No,0,277,314,1,5,Summer,1367,Neutral
+26-28,Female,Hazrat Shah Paran Mazar,Private Car,735,No,0,407,101,1,5,Monsoon,1243,Satisfied
+20-22,Male,Madhabkunda Lake,Boat + CNG,1210,Yes,594,226,136,4,2,Winter,4450,Satisfied
+20-22,Female,Tamabil,Bus,739,Yes,518,518,351,2,3,Winter,2995,Satisfied
+22-24,Female,Jaflong,Bus,453,Yes,2378,480,53,4,15,Monsoon,9758,Satisfied
+24-26,Female,Lawachara National Park,Chander Gari,1200,Yes,1756,159,246,4,2,Summer,8096,Satisfied
+24-26,Male,HakaLuki Haor,Bike,134,Yes,1623,614,284,4,15,Summer,8614,Neutral
+22-24,Female,Madhabkunda Lake,Bike,666,Yes,970,504,330,2,15,Winter,3314,Satisfied
+22-24,Male,HakaLuki Haor,Private Car,935,No,0,375,372,1,2,Winter,1676,Neutral
+22-24,Male,Madhabkunda Lake,CNG / Auto,1371,Yes,657,761,304,2,1,Winter,4158,Satisfied
+22-24,Female,Sadha Pathor,Boat + CNG,202,No,0,637,188,1,4,Winter,1027,Neutral
+26-28,Male,Sreemangal Tea Garden Area,Private Car,810,No,0,575,159,1,2,Winter,1544,Satisfied
+22-24,Female,Lawachara National Park,Private Car,1059,Yes,1000,635,200,4,15,Summer,7617,Satisfied
+20-22,Male,Ratargul Swamp Forest,Private Car,1388,Yes,2033,297,196,4,7,Monsoon,9459,Neutral
+22-24,Male,Madhabkunda Lake,CNG,1032,No,0,770,256,1,4,Monsoon,2058,Neutral
+22-24,Male,Ham Ham Waterfall,Bike,520,Yes,1880,492,207,2,9,Winter,3798,Satisfied
+22-24,Female,"Shimul Bagan, Sunamganj",Bus + CNG,1140,Yes,1665,167,140,2,6,Monsoon,3000,Satisfied
+22-24,Female,Utma Chora,Bus + CNG,794,Yes,1627,682,334,4,7,Winter,9727,Satisfied
+24-26,Female,Lawachara National Park,Bus + CNG,288,No,0,667,302,1,7,Monsoon,1257,Satisfied
+22-24,Male,Madhabkunda Lake,Bike,968,Yes,2853,380,338,3,5,Summer,8828,Neutral
+24-26,Male,Tanguar Haor,Bus + CNG,609,Yes,2391,413,229,3,10,Summer,7317,Satisfied
+20-22,Male,Sadha Pathor,CNG ,840,Yes,1625,153,295,2,1,Summer,3323,Satisfied
+22-24,Male,Shapla Bil,Bike,104,No,0,261,302,1,11,Winter,667,Satisfied
+22-24,Male,Ratargul Swamp Forest,Train + CNG,293,Yes,1329,242,393,4,2,Summer,6820,Satisfied
+22-24,Female,Ham Ham Waterfall,Chander Gari,712,Yes,2062,569,348,2,4,Winter,4608,Satisfied
+22-24,Female,Jaflong,leguna,930,Yes,993,427,203,2,13,Summer,3183,Satisfied
+28-30+,Male,Hazrat Shah Paran Mazar,Bus,308,No,0,227,390,1,9,Winter,925,Satisfied
+22-24,Female,Ratargul Swamp Forest,Bus + CNG,1370,No,0,216,193,1,8,Winter,1779,Neutral
+22-24,Female,Bichanakandi,Leguna,1362,Yes,2099,760,384,3,1,Winter,8992,Satisfied
+20-22,Male,Ham Ham Waterfall,Bike,232,No,0,623,290,1,15,Winter,1145,Unsatisfied
+22-24,Female,Madhabkunda Waterfall,Private Car,482,No,0,358,352,1,2,Winter,4362,Neutral
+20-22,Female,Sreemangal,Train + CNG,1087,Yes,2231,393,184,3,5,Summer,7280,Neutral
+20-22,Female,Hazrat Shah Jalal Mazar,Leguna,816,No,0,716,241,1,11,Monsoon,1773,Satisfied
+22-24,Female,Madhabkunda Waterfall,Bus + CNG,527,No,0,506,358,1,13,Summer,1391,Neutral
+26-28,Female,Bichanakandi,CNG / Auto,473,Yes,2062,165,396,4,8,Winter,8903,Unsatisfied
+22-24,Female,Bichanakandi,CNG / Auto,454,No,0,466,226,1,1,Winter,1146,Neutral
+15-20,Female,Sreemangal Tea Garden Area,Train + CNG,1211,No,0,513,128,1,2,Summer,1865,Satisfied
+28-30+,Female,Bichanakandi,Bus + CNG,1367,Yes,998,675,387,4,14,Monsoon,8609,Satisfied
+24-26,Male,HakaLuki Haor,Train + CNG,1236,Yes,1019,368,115,4,12,Summer,6197,Satisfied
+28-30+,Female,"Shimul Bagan, Sunamganj",Bike,1336,Yes,570,591,317,4,5,Summer,6678,Neutral
+22-24,Male,Tanguar Haor,Train + CNG,296,Yes,2634,678,70,4,7,Winter,11190,Satisfied
+22-24,Female,Sreemangal Tea Garden Area,Bike,618,No,0,500,134,1,15,Winter,1252,Satisfied
+15-20,Female,Ratargul Swamp Forest,Train,1010,No,0,425,80,1,14,Monsoon,1495,Unsatisfied
+22-24,Female,Sadha Pathor,Chander Gari,496,No,0,677,174,1,1,Monsoon,1347,Unsatisfied
+22-24,Male,Bichanakandi,CNG,518,No,0,675,220,1,8,Winter,1413,Satisfied
+15-20,Male,Hazrat Shah Paran Mazar,Bus + CNG,1476,Yes,1994,646,349,4,13,Monsoon,11438,Satisfied
+22-24,Male,Hazrat Shah Jalal Mazar,CNG / Auto,123,No,0,233,312,1,9,Summer,668,Satisfied
+20-22,Male,Madhabkunda Lake,Bike,864,Yes,1063,520,330,3,8,Winter,5550,Satisfied
+26-28,Male,Jaflong,Bike,1097,Yes,2722,759,314,3,2,Monsoon,9760,Neutral
+22-24,Male,Sreemangal Tea Garden Area,Chander Gari,645,No,0,165,254,1,8,Winter,1057,Satisfied
+22-24,Male,Madhabkunda Waterfall,Train,488,Yes,2791,740,338,2,6,Monsoon,5435,Satisfied
+24-26,Male,Ratargul Swamp Forest,Bus,493,Yes,1205,372,369,2,6,Summer,3180,Satisfied
+22-24,Female,Ham Ham Waterfall,Leguna,425,Yes,601,540,325,2,15,Winter,2768,Satisfied
+24-26,Male,Tanguar Haor,Bus + CNG,1283,Yes,2390,300,307,3,11,Winter,7896,Satisfied
+20-22,Male,Bichanakandi,Train + CNG,428,No,0,291,72,1,12,Winter,791,Neutral
+24-26,Female,Ratargul Swamp Forest,Air + CNG ,880,No,0,345,150,1,9,Winter,1000,Neutral
+22-24,Female,Utma Chora,Bus,476,No,0,414,325,1,3,Monsoon,1215,Unsatisfied
+22-24,Female,Ratargul Swamp Forest,Leguna,961,Yes,2189,512,331,4,4,Winter,10900,Satisfied
+22-24,Female,"Shimul Bagan, Sunamganj",Private Car,321,Yes,2376,160,334,2,14,Summer,3685,Satisfied
+22-24,Male,Tamabil,Chander Gari,945,Yes,1164,680,240,2,12,Summer,3949,Satisfied
+20-22,Male,Sadha Pathor,Bike,1389,No,0,440,388,1,11,Summer,2217,Unsatisfied
+24-26,Male,Sreemangal Tea Garden Area,CNG / Auto,820,Yes,2494,449,159,2,5,Summer,4530,Satisfied
+20-22,Male,Sreemangal Tea Garden Area,Train + CNG,643,No,0,478,312,1,15,Summer,1421,Unsatisfied
+22-24,Female,Jaflong,Air + CNG ,1298,Yes,915,364,346,4,13,Summer,6883,Satisfied
+24-26,Female,Bichanakandi,Train,785,No,0,532,79,1,13,Winter,1412,Satisfied
+20-22,Male,Lawachara National Park,Bus + CNG,627,Yes,500,490,228,4,5,Summer,4999,Neutral
+22-24,Female,Madhabkunda Waterfall,Boat + CNG,1372,Yes,1836,791,169,2,10,Winter,5128,Satisfied
+22-24,Female,"Shimul Bagan, Sunamganj",Bus,1343,Yes,2248,697,306,4,5,Monsoon,12099,Satisfied
+15-20,Male,Sadha Pathor,Boat + CNG,976,No,0,593,325,1,13,Monsoon,1880,Satisfied
+24-26,Male,Tanguar Haor,Bus,1120,No,0,244,246,1,13,Summer,1610,Satisfied
+22-24,Female,Jaflong,Train + CNG,1244,No,0,359,93,1,4,Summer,1696,Satisfied
+15-20,Male,Tamabil,Bus + CNG,595,Yes,1092,788,51,2,11,Winter,3365,Unsatisfied
+24-26,Male,Jaflong,Train,832,Yes,890,446,77,3,1,Winter,4179,Satisfied
+24-26,Male,Utma Chora,Leguna,850,No,0,282,393,1,7,Summer,1525,Satisfied
+20-22,Male,Hazrat Shah Paran Mazar,Chander Gari,380,No,0,595,230,1,9,Winter,1191,Satisfied
+26-28,Female,Sreemangal,Boat + CNG,933,Yes,2557,343,87,2,15,Summer,4350,Satisfied
+22-24,Female,Ham Ham Waterfall,Chander Gari,905,No,0,584,264,1,12,Summer,1753,Unsatisfied
+20-22,Male,Sreemangal Tea Garden Area,Leguna,1055,No,0,665,277,1,3,Summer,1997,Satisfied
+22-24,Female,HakaLuki Haor,Private Car,877,No,0,242,155,1,7,Winter,1274,Satisfied
+22-24,Female,Lawachara National Park,chander Gari,619,No,0,620,298,1,9,Monsoon,1537,Unsatisfied
+22-24,Male,Utma Chora,Train + CNG,1185,Yes,804,369,296,4,7,Monsoon,6257,Satisfied
+20-22,Female,Sreemangal Tea Garden Area,CNG / Auto,1161,Yes,2506,684,374,4,9,Monsoon,12911,Satisfied
+20-22,Male,Bichanakandi,Train + CNG,445,No,0,745,360,1,5,Winter,1550,Satisfied
+20-22,Female,Lawachara National Park,Private Car,613,Yes,1343,478,110,4,12,Winter,6954,Satisfied
+22-24,Female,Hazrat Shah Jalal Mazar,Bus + CNG,518,No,0,800,389,1,13,Winter,1707,Satisfied
+22-24,Female,Shapla Bil,Bike,118,No,0,219,131,1,1,Monsoon,468,Satisfied
+20-22,Female,Hazrat Shah Paran Mazar,Train + CNG,1269,Yes,1820,725,361,2,11,Monsoon,5261,Satisfied
+22-24,Female,Lawachara National Park,Train + CNG,943,Yes,1480,627,336,4,5,Winter,9235,Neutral
+20-22,Female,"Shimul Bagan, Sunamganj",Train,275,Yes,2213,526,70,3,8,Summer,6000,Satisfied
+22-24,Male,"Shimul Bagan, Sunamganj",Train,666,No,0,431,240,1,15,Summer,1337,Satisfied
+22-24,Female,Sadha Pathor,Private Car,316,No,0,387,197,1,10,Summer,914,Satisfied
+20-22,Male,Sreemangal Tea Garden Area,Train,1424,No,0,479,198,1,9,Monsoon,2095,Unsatisfied
+20-22,Female,Bichanakandi,Private Car,1462,No,0,745,113,1,13,Summer,2000,Satisfied
+20-22,Female,Utma Chora,Boat + CNG,628,No,0,624,303,1,14,Winter,1559,Satisfied
+22-24,Male,Hazrat Shah Jalal Mazar,Leguna,366,Yes,889,400,295,2,12,Monsoon,2645,Neutral
+28-30+,Male,Bichanakandi,Air + CNG ,1000,Yes,1274,536,189,4,10,Winter,7946,Satisfied
+20-22,Male,Hazrat Shah Paran Mazar,CNG,1207,No,0,611,386,1,3,Winter,2204,Satisfied
+20-22,Female,Hazrat Shah Paran Mazar,Private Car,1006,No,0,706,302,1,4,Monsoon,2014,Satisfied
+20-22,Female,Madhabkunda Lake,Bus,386,No,0,545,76,1,12,Winter,1010,Satisfied
+24-26,Female,Lalakhal,Private Car,145,Yes,764,732,351,4,3,Monsoon,6769,Neutral
+24-26,Male,Sreemangal Tea Garden Area,Boat + CNG,1338,No,0,579,54,1,10,Winter,1971,Satisfied
+24-26,Female,Lalakhal,Boat + CNG,251,Yes,2082,435,313,3,14,Summer,6659,Unsatisfied
+22-24,Female,"Shimul Bagan, Sunamganj",Private Car,815,Yes,928,588,369,4,8,Winter,7427,Satisfied
+22-24,Male,Lalakhal,Leguna,286,No,0,443,326,1,14,Winter,1050,Neutral
+22-24,Male,Lalakhal,Private Car,157,No,0,235,54,1,3,Summer,446,Satisfied
+24-26,Male,Lalakhal,Chander Gari,310,No,0,660,322,1,14,Summer,1292,Neutral
+15-20,Female,Tamabil,Boat + CNG,104,No,0,651,176,1,15,Winter,929,Neutral
+24-26,Male,Bichanakandi,Bus + CNG,301,Yes,816,400,298,3,11,Monsoon,4027,Satisfied
+20-22,Female,Madhabkunda Waterfall,Leguna,171,Yes,820,675,166,4,8,Monsoon,5995,Satisfied
+22-24,Male,Hazrat Shah Paran Mazar,Bus + CNG,1038,Yes,2392,379,277,2,12,Summer,4745,Unsatisfied
+26-28,Female,"Shimul Bagan, Sunamganj",Train,957,No,0,426,371,1,4,Monsoon,1761,Satisfied
+24-26,Male,Lawachara National Park,CNG / Auto,217,No,0,554,102,1,15,Monsoon,873,Satisfied
+22-24,Male,Shapla Bil,Bus,1498,Yes,1072,176,355,3,1,Monsoon,5235,Neutral
+22-24,Female,Hazrat Shah Paran Mazar,Train,302,Yes,599,717,59,3,8,Monsoon,3804,Satisfied
+20-22,Male,Lalakhal,CNG / Auto,923,No,0,782,380,1,6,Winter,2085,Satisfied
+22-24,Male,Ham Ham Waterfall,Private Car,1116,Yes,2327,355,63,4,9,Monsoon,9769,Satisfied
+20-22,Male,Tamabil,Chander Gari,748,Yes,2491,254,173,4,13,Winter,10001,Unsatisfied
+22-24,Female,Lalakhal,Chander Gari,1158,No,0,282,346,1,14,Summer,1781,Neutral
+24-26,Female,Sreemangal,Boat + CNG,610,No,0,157,381,1,13,Monsoon,1000,Satisfied
+24-26,Male,Utma Chora,CNG / Auto,1342,Yes,1726,721,341,2,15,Winter,5176,Satisfied
+22-24,Male,Tanguar Haor,Bus + CNG,1092,No,0,363,160,1,3,Summer,1615,Satisfied
+22-24,Female,Tanguar Haor,Chander Gari,931,No,0,420,233,1,11,Monsoon,1584,Satisfied
+28-30+,Female,Utma Chora,private Car,656,No,0,261,289,1,2,Winter,1206,Satisfied
+22-24,Female,Ham Ham Waterfall,Private Car,667,Yes,2365,258,200,3,3,Summer,6000,Satisfied
+22-24,Female,Ratargul Swamp Forest,Private Car,242,Yes,1000,564,142,2,8,Winter,2863,Satisfied
+22-24,Female,Hazrat Shah Jalal Mazar,Boat + CNG,242,No,0,456,104,1,10,Monsoon,802,Satisfied
+22-24,Male,Bichanakandi,CNG / Auto,1203,No,0,633,65,1,3,Monsoon,1901,Neutral
+20-22,Female,Bichanakandi,Train + CNG,403,Yes,2158,453,345,4,2,Monsoon,10069,Neutral
+22-24,Female,Lalakhal,Leguna,692,No,0,660,128,1,14,Summer,1480,Neutral
+22-24,Male,Sreemangal,Bus + CNG,1422,No,0,158,280,1,6,Summer,1860,Satisfied
+22-24,Male,Hazrat Shah Jalal Mazar,CNG / Auto,1089,No,0,410,125,1,6,Winter,1624,Satisfied
+20-22,Female,Jaflong,Train,1362,Yes,1303,360,128,4,9,Monsoon,7223,Satisfied
+22-24,Female,Sreemangal,Private Car,1248,Yes,2156,618,276,4,5,Summer,11348,Satisfied
+22-24,Male,Hazrat Shah Jalal Mazar,Bike,1019,Yes,1498,259,380,3,15,Winter,5932,Neutral
+20-22,Female,Lawachara National Park,Boat + CNG,310,Yes,1939,222,352,4,2,Monsoon,8423,Satisfied
+24-26,Male,Sreemangal Tea Garden Area,chander Gari,1329,No,0,784,272,1,2,Monsoon,2385,Satisfied
+20-22,Male,Sreemangal Tea Garden Area,Leguna,936,Yes,1204,554,339,4,6,Winter,8115,Satisfied
+22-24,Female,Hazrat Shah Paran Mazar,Bus + CNG,389,Yes,2954,755,222,2,5,Summer,5297,Satisfied
+22-24,Male,Ham Ham Waterfall,Chander Gari,423,No,0,329,392,1,15,Summer,1134,Neutral
+15-20,Female,Madhabkunda Lake,Private Car,299,No,0,692,353,1,13,Winter,1344,Satisfied
+22-24,Male,"Shimul Bagan, Sunamganj",bus + CNG,1024,Yes,1360,176,339,4,11,Summer,7164,Satisfied
+20-22,Male,HakaLuki Haor,Bike,205,Yes,1870,480,265,4,15,Monsoon,8000,Neutral
+22-24,Male,Sreemangal,Leguna,969,Yes,770,746,103,2,4,Winter,3437,Satisfied
+22-24,Male,Madhabkunda Lake,Bike,987,No,0,362,277,1,4,Summer,1626,Neutral
+22-24,Female,Sadha Pathor,Bike,734,No,0,784,341,1,4,Monsoon,1859,Satisfied
+22-24,Male,Shapla Bil,CNG / Auto,1273,No,0,666,399,1,11,Winter,2338,Satisfied
+24-26,Male,Madhabkunda Lake,Chander Gari,1006,Yes,541,686,350,2,11,Summer,3619,Unsatisfied
+20-22,Female,Madhabkunda Waterfall,Boat + CNG,937,No,0,266,259,1,10,Winter,1462,Satisfied
+20-22,Female,Sadha Pathor,Leguna,1180,No,0,777,307,1,7,Winter,2264,Satisfied
+22-24,Female,Ratargul Swamp Forest,Bus + CNG,1007,Yes,2476,717,80,2,1,Summer,5076,Satisfied
+20-22,Female,Madhabkunda Lake,Train + CNG,1074,Yes,838,533,125,3,10,Summer,4724,Satisfied
+22-24,Female,Bichanakandi,Leguna,471,Yes,1634,187,243,2,12,Monsoon,2927,Satisfied
+22-24,Male,Sreemangal,Private Car,515,No,0,235,86,1,11,Summer,836,Satisfied
+22-24,Male,Hazrat Shah Paran Mazar,Bus,754,No,0,431,70,1,13,Winter,1255,Satisfied
+22-24,Male,Sreemangal,Bus,1193,Yes,1790,484,229,2,6,Summer,4409,Satisfied
+20-22,Female,"Shimul Bagan, Sunamganj",Train,1300,Yes,1311,292,74,2,13,Winter,3343,Unsatisfied
+22-24,Female,Sreemangal,Bus + CNG,1413,Yes,2000,237,223,2,9,Summer,5083,Satisfied
+24-26,Male,Jaflong,Leguna,319,No,0,543,350,1,12,Summer,1212,Neutral
+24-26,Male,Lalakhal,Private Car,561,Yes,2125,495,355,4,11,Monsoon,10336,Satisfied
+22-24,Male,"Shimul Bagan, Sunamganj",Train,1327,Yes,2000,495,158,2,8,Summer,5046,Satisfied
+24-26,Male,Ratargul Swamp Forest,Bike,1281,No,0,495,166,1,2,Winter,1942,Satisfied
+26-28,Male,Hazrat Shah Jalal Mazar,Train,1181,Yes,692,311,292,4,11,Summer,5000,Satisfied
+22-24,Male,Jaflong,Private Car,1036,Yes,1189,511,137,4,8,Monsoon,7195,Satisfied
+22-24,Female,Lalakhal,CNG / Auto,808,No,0,239,291,1,7,Summer,1000,Neutral
+22-24,Female,Ham Ham Waterfall,Bus,1217,Yes,1654,174,71,3,11,Summer,5260,Satisfied
+22-24,Female,Utma Chora,Bus + CNG,804,Yes,853,375,84,2,13,Monsoon,2575,Neutral
+22-24,Male,Hazrat Shah Jalal Mazar,Train + CNG,775,No,0,288,176,1,1,Summer,1000,Unsatisfied
+20-22,Male,Madhabkunda Waterfall,bus + CNG,181,No,0,491,55,1,12,Summer,727,Neutral
+22-24,Male,Sadha Pathor,Chander Gari,224,No,0,585,203,1,8,Monsoon,1012,Satisfied
+22-24,Male,Sadha Pathor,Private Car,407,No,0,737,308,1,6,Summer,1463,Satisfied
+28-30+,Male,Sreemangal,Train,203,No,0,337,88,1,9,Monsoon,628,Satisfied
+28-30+,Male,Lawachara National Park,Bike,776,Yes,872,391,151,3,1,Monsoon,4164,Unsatisfied
+22-24,Female,Jaflong,Chander Gari,1134,No,0,202,153,1,9,Winter,1489,Satisfied
+15-20,Male,Shapla Bil,Boat + CNG,718,No,0,551,347,1,5,Monsoon,1616,Satisfied
+22-24,Female,Madhabkunda Waterfall,Bike,672,No,0,429,293,1,3,Monsoon,1394,Neutral
+24-26,Male,Sadha Pathor,private Car,246,Yes,657,478,365,3,1,Monsoon,4089,Satisfied
+22-24,Male,Jaflong,private Car,200,Yes,1962,326,132,3,2,Monsoon,5000,Satisfied
+22-24,Female,Hazrat Shah Jalal Mazar,Private Car,1000,Yes,1922,600,387,2,14,Monsoon,4969,Neutral
+24-26,Female,Shapla Bil,CNG / Auto,850,Yes,2153,353,155,4,2,Winter,9341,Unsatisfied
+22-24,Male,Sreemangal Tea Garden Area,Bus + CNG,203,No,0,541,332,1,3,Winter,1076,Neutral
+22-24,Male,Utma Chora,Private Car,783,Yes,608,695,191,3,3,Monsoon,4702,Satisfied
+22-24,Male,HakaLuki Haor,Bus,908,Yes,711,176,71,3,4,Winter,3071,Unsatisfied
+20-22,Male,Hazrat Shah Jalal Mazar,Air + CNG ,1122,Yes,2240,522,142,3,9,Monsoon,7594,Neutral
+20-22,Male,Hazrat Shah Jalal Mazar,Train + CNG,363,Yes,2124,755,330,4,12,Monsoon,11075,Neutral
+15-20,Female,Tamabil,Chander Gari,222,Yes,2519,291,358,3,1,Winter,7228,Satisfied
+22-24,Female,Hazrat Shah Paran Mazar,Train + CNG,1226,Yes,2299,235,363,4,8,Monsoon,10515,Unsatisfied
+22-24,Female,HakaLuki Haor,Air +Bus,108,Yes,1927,740,221,3,6,Winter,6865,Satisfied
+20-22,Female,Jaflong,CNG / Auto,1148,Yes,2423,318,397,3,7,Winter,8139,Satisfied
+20-22,Male,"Shimul Bagan, Sunamganj",Bus,543,No,0,203,110,1,7,Monsoon,856,Neutral
+28-30+,Male,Sreemangal Tea Garden Area,Bus + CNG,326,No,0,567,187,1,9,Monsoon,1080,Neutral
+26-28,Male,Hazrat Shah Jalal Mazar,Leguna,1113,Yes,2868,795,142,2,1,Winter,5843,Satisfied
+28-30+,Male,Utma Chora,Private Car,193,Yes,1000,721,238,3,12,Monsoon,5094,Satisfied
+26-28,Male,Tamabil,Boat + CNG,229,Yes,1975,189,118,2,1,Winter,2818,Satisfied
+22-24,Male,HakaLuki Haor,Train + CNG,707,No,0,792,308,1,2,Winter,1807,Neutral
+22-24,Female,Madhabkunda Waterfall,Bus,1366,Yes,1110,634,396,4,10,Summer,8816,Neutral
+22-24,Female,Sreemangal Tea Garden Area,Leguna,803,Yes,943,646,291,3,11,Summer,5510,Neutral
+22-24,Male,Lalakhal,Train + CNG,1007,Yes,2597,238,224,4,15,Summer,60646,Unsatisfied
+22-24,Male,Sreemangal Tea Garden Area,Chander Gari,340,Yes,2879,220,192,4,6,Summer,7625,Satisfied
+20-22,Male,Ham Ham Waterfall,Bike,751,No,0,331,125,1,10,Winter,1207,Satisfied
+20-22,Female,Ham Ham Waterfall,Train + CNG,1317,Yes,1705,541,170,3,2,Winter,6000,Neutral
+20-22,Female,Lawachara National Park,Leguna,722,Yes,539,728,194,4,3,Summer,6027,Satisfied
+22-24,Male,HakaLuki Haor,bus,669,Yes,1051,343,246,3,5,Monsoon,4538,Satisfied
+22-24,Male,Tanguar Haor,Bike,646,Yes,950,750,169,3,2,Winter,5303,Satisfied
+22-24,Female,Ratargul Swamp Forest,Private Car,1328,Yes,1807,604,297,4,14,Winter,10353,Satisfied
+20-22,Female,"Shimul Bagan, Sunamganj",Bike,1224,No,0,634,205,1,1,Winter,2063,Satisfied
+22-24,Female,Jaflong,Bus + CNG,1489,Yes,1170,207,324,3,7,Monsoon,5423,Neutral
+22-24,Male,Hazrat Shah Jalal Mazar,Bus + CNG,1076,No,0,152,71,1,15,Monsoon,1299,Neutral
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
